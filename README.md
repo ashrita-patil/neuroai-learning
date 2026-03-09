@@ -1,4 +1,4 @@
-# NeuroAI Learning Journey
+# NeuroAI 
 
 Tracking my path into computational cognitive science. Projects spanning NLP, 
 machine learning, and mental health signal detection.
